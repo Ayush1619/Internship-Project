@@ -1,7 +1,7 @@
 # Internship
 ## Internship Project
 ### An online webapp which predict the chance of corona virus, based on your given symptoms.
-### My Role: Machine learning - Prepared EDA(Combined three different datset) and found out the accuracy using logistic regression.
+### My Role: Machine learning - Prepared EDA(Combined three different dataset) and found out the accuracy using logistic regression.
 ## Screenshots of this application:
 ### Home
 ![1-covid](https://user-images.githubusercontent.com/51109416/94481771-e1b0ae80-01f5-11eb-83ac-252f794d9e7e.png)
